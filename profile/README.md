@@ -1,5 +1,3 @@
-# Markdown Viewer
-
 **Markdown to perfect Word in one click — Mermaid, Vega, drawio, Canvas, Infographic, Graphviz, LaTeX (editable), code highlighting, local processing**
 
 *Completely Free · 29 Professional Themes · 28 Languages Support*
