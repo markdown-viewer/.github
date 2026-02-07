@@ -1,4 +1,4 @@
-# ![Markdown Viewer](https://avatars.githubusercontent.com/u/254370810?s=200&v=4) Markdown Viewer
+# Markdown Viewer
 
 **Markdown to perfect Word in one click — Mermaid, Vega, drawio, Canvas, Infographic, Graphviz, LaTeX (editable), code highlighting, local processing**
 
